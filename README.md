@@ -1,7 +1,7 @@
 Small python projects
 
-File manipulation
-Multiprocessing/Multithreading
-Minigames
-Networking
-APIs
+- File manipulation
+- Multiprocessing/Multithreading
+- Minigames
+- Networking
+- APIs
